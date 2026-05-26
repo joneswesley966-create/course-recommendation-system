@@ -1,0 +1,201 @@
+CourseID,CourseCategory,CourseType,CourseLevel,CourseRating
+C0001,Web Development,Video,Advanced,3.2
+C0002,Design,Text,Advanced,2.8
+C0003,Web Development,Live,Beginner,2.6
+C0004,Design,Text,Advanced,4.0
+C0005,Design,Live,Beginner,3.6
+C0006,Marketing,Video,Beginner,4.2
+C0007,Cybersecurity,Interactive,Beginner,3.0
+C0008,Cybersecurity,Video,Beginner,3.4
+C0009,Cybersecurity,Interactive,Advanced,3.2
+C0010,Data Science,Live,Advanced,2.8
+C0011,AI/ML,Video,Advanced,3.2
+C0012,Cybersecurity,Text,Advanced,2.7
+C0013,Design,Interactive,Beginner,4.6
+C0014,Web Development,Live,Intermediate,3.6
+C0015,Cybersecurity,Text,Intermediate,3.4
+C0016,Marketing,Video,Advanced,4.1
+C0017,Design,Text,Intermediate,3.4
+C0018,Design,Interactive,Beginner,3.1
+C0019,Data Science,Interactive,Intermediate,3.2
+C0020,Design,Interactive,Beginner,4.1
+C0021,AI/ML,Live,Beginner,3.2
+C0022,Design,Interactive,Advanced,4.0
+C0023,AI/ML,Interactive,Beginner,5.0
+C0024,Business,Live,Beginner,4.4
+C0025,Web Development,Text,Advanced,2.9
+C0026,AI/ML,Video,Intermediate,3.5
+C0027,Finance,Interactive,Advanced,4.7
+C0028,Data Science,Video,Advanced,4.7
+C0029,Marketing,Interactive,Beginner,3.2
+C0030,Business,Live,Beginner,4.9
+C0031,Marketing,Text,Advanced,4.8
+C0032,Marketing,Text,Beginner,3.4
+C0033,Business,Video,Advanced,3.3
+C0034,Data Science,Video,Intermediate,4.7
+C0035,Marketing,Text,Beginner,3.1
+C0036,Web Development,Video,Advanced,3.7
+C0037,Web Development,Text,Beginner,4.1
+C0038,Business,Interactive,Advanced,4.7
+C0039,AI/ML,Text,Advanced,4.4
+C0040,Design,Interactive,Intermediate,5.0
+C0041,Cybersecurity,Live,Advanced,3.6
+C0042,Design,Text,Beginner,3.3
+C0043,Design,Text,Beginner,2.7
+C0044,Data Science,Text,Beginner,4.8
+C0045,Cybersecurity,Video,Advanced,3.1
+C0046,Finance,Text,Advanced,2.8
+C0047,Finance,Text,Intermediate,4.5
+C0048,Design,Video,Beginner,4.1
+C0049,Cybersecurity,Live,Intermediate,3.7
+C0050,Data Science,Video,Beginner,3.5
+C0051,Cybersecurity,Video,Beginner,3.0
+C0052,Finance,Text,Intermediate,3.0
+C0053,Finance,Text,Beginner,3.6
+C0054,Web Development,Video,Advanced,5.0
+C0055,Data Science,Video,Beginner,2.9
+C0056,Finance,Live,Beginner,4.7
+C0057,Data Science,Text,Intermediate,2.5
+C0058,AI/ML,Interactive,Intermediate,3.2
+C0059,Finance,Text,Beginner,3.2
+C0060,Data Science,Video,Advanced,3.3
+C0061,Data Science,Live,Advanced,4.8
+C0062,Business,Video,Advanced,2.7
+C0063,Business,Video,Advanced,2.7
+C0064,Design,Live,Beginner,4.9
+C0065,Design,Video,Advanced,2.7
+C0066,Cybersecurity,Interactive,Beginner,4.2
+C0067,Cybersecurity,Text,Intermediate,3.5
+C0068,Marketing,Live,Intermediate,4.8
+C0069,Web Development,Video,Intermediate,4.1
+C0070,Web Development,Video,Advanced,3.0
+C0071,Marketing,Text,Intermediate,4.7
+C0072,Design,Interactive,Intermediate,2.9
+C0073,Marketing,Video,Advanced,4.5
+C0074,Marketing,Video,Beginner,3.2
+C0075,Web Development,Text,Intermediate,3.2
+C0076,Design,Interactive,Beginner,4.2
+C0077,Marketing,Live,Intermediate,4.8
+C0078,Data Science,Video,Advanced,3.6
+C0079,Marketing,Video,Beginner,3.3
+C0080,Business,Interactive,Beginner,4.4
+C0081,AI/ML,Video,Beginner,2.7
+C0082,Business,Video,Intermediate,4.0
+C0083,Business,Live,Beginner,2.6
+C0084,Cybersecurity,Video,Intermediate,3.0
+C0085,Design,Video,Intermediate,4.5
+C0086,AI/ML,Text,Beginner,4.7
+C0087,Business,Live,Beginner,2.9
+C0088,Cybersecurity,Live,Advanced,4.7
+C0089,Design,Interactive,Beginner,4.5
+C0090,Web Development,Live,Beginner,4.6
+C0091,Design,Text,Intermediate,3.4
+C0092,Design,Text,Beginner,4.2
+C0093,AI/ML,Interactive,Intermediate,4.7
+C0094,Marketing,Interactive,Advanced,3.8
+C0095,Cybersecurity,Video,Beginner,4.7
+C0096,Marketing,Text,Advanced,4.9
+C0097,Marketing,Video,Beginner,4.0
+C0098,Cybersecurity,Interactive,Intermediate,4.0
+C0099,Web Development,Live,Advanced,3.0
+C0100,Data Science,Live,Beginner,3.8
+C0101,Design,Interactive,Intermediate,2.7
+C0102,Cybersecurity,Interactive,Advanced,4.6
+C0103,Marketing,Interactive,Advanced,3.5
+C0104,AI/ML,Interactive,Advanced,2.8
+C0105,AI/ML,Live,Advanced,4.4
+C0106,Business,Interactive,Intermediate,3.9
+C0107,Data Science,Interactive,Intermediate,3.0
+C0108,Cybersecurity,Live,Intermediate,3.6
+C0109,Design,Live,Advanced,2.9
+C0110,Web Development,Interactive,Advanced,4.2
+C0111,Cybersecurity,Video,Beginner,4.2
+C0112,Design,Text,Beginner,2.6
+C0113,Design,Live,Advanced,4.6
+C0114,Web Development,Live,Intermediate,4.7
+C0115,Design,Live,Intermediate,3.5
+C0116,Business,Video,Beginner,4.4
+C0117,Design,Text,Advanced,3.8
+C0118,Data Science,Text,Beginner,3.6
+C0119,Finance,Interactive,Intermediate,4.0
+C0120,AI/ML,Live,Beginner,4.4
+C0121,Finance,Live,Intermediate,4.4
+C0122,Marketing,Live,Advanced,3.1
+C0123,Finance,Video,Advanced,3.2
+C0124,Marketing,Interactive,Intermediate,4.7
+C0125,Web Development,Text,Beginner,3.1
+C0126,Business,Text,Beginner,3.5
+C0127,Cybersecurity,Live,Intermediate,2.7
+C0128,AI/ML,Live,Advanced,4.9
+C0129,Data Science,Live,Intermediate,2.5
+C0130,Cybersecurity,Interactive,Intermediate,4.6
+C0131,AI/ML,Text,Intermediate,3.0
+C0132,AI/ML,Live,Beginner,3.5
+C0133,AI/ML,Text,Intermediate,4.8
+C0134,Data Science,Live,Advanced,3.9
+C0135,Data Science,Video,Advanced,3.6
+C0136,Finance,Text,Beginner,3.2
+C0137,Cybersecurity,Text,Intermediate,3.3
+C0138,AI/ML,Interactive,Intermediate,3.1
+C0139,Web Development,Live,Beginner,4.4
+C0140,Data Science,Interactive,Beginner,4.1
+C0141,Data Science,Video,Beginner,3.0
+C0142,Data Science,Text,Beginner,2.8
+C0143,Web Development,Text,Intermediate,4.2
+C0144,Cybersecurity,Text,Advanced,4.0
+C0145,Web Development,Text,Intermediate,2.8
+C0146,Data Science,Interactive,Advanced,4.2
+C0147,AI/ML,Live,Advanced,3.0
+C0148,Design,Video,Advanced,4.4
+C0149,Web Development,Video,Intermediate,3.8
+C0150,Cybersecurity,Video,Advanced,4.1
+C0151,Data Science,Live,Intermediate,2.8
+C0152,Cybersecurity,Live,Advanced,2.9
+C0153,Business,Interactive,Advanced,4.5
+C0154,Finance,Live,Intermediate,4.6
+C0155,Marketing,Interactive,Beginner,4.6
+C0156,Web Development,Interactive,Intermediate,3.1
+C0157,Finance,Live,Intermediate,2.6
+C0158,Cybersecurity,Text,Intermediate,3.0
+C0159,Marketing,Interactive,Intermediate,4.7
+C0160,Marketing,Video,Advanced,4.9
+C0161,Web Development,Text,Advanced,3.5
+C0162,Design,Live,Advanced,4.3
+C0163,Finance,Video,Beginner,3.2
+C0164,AI/ML,Text,Intermediate,4.2
+C0165,Cybersecurity,Live,Advanced,3.8
+C0166,AI/ML,Interactive,Intermediate,4.3
+C0167,Marketing,Interactive,Intermediate,3.1
+C0168,Design,Interactive,Beginner,4.4
+C0169,Business,Text,Beginner,4.3
+C0170,Marketing,Interactive,Beginner,4.6
+C0171,Marketing,Text,Intermediate,2.9
+C0172,Data Science,Text,Intermediate,2.6
+C0173,Data Science,Interactive,Advanced,4.9
+C0174,Finance,Video,Beginner,3.9
+C0175,Finance,Live,Intermediate,3.4
+C0176,Data Science,Interactive,Intermediate,2.8
+C0177,Web Development,Live,Intermediate,2.7
+C0178,Data Science,Text,Beginner,4.5
+C0179,Marketing,Video,Beginner,2.8
+C0180,AI/ML,Text,Advanced,3.5
+C0181,Finance,Interactive,Advanced,5.0
+C0182,Marketing,Video,Advanced,4.9
+C0183,Web Development,Text,Advanced,3.0
+C0184,Web Development,Text,Beginner,2.9
+C0185,Web Development,Text,Beginner,3.5
+C0186,Finance,Interactive,Beginner,3.1
+C0187,Marketing,Live,Beginner,4.2
+C0188,Marketing,Text,Intermediate,2.8
+C0189,Design,Text,Intermediate,4.6
+C0190,Web Development,Video,Beginner,4.5
+C0191,Marketing,Live,Beginner,3.7
+C0192,Marketing,Live,Intermediate,3.8
+C0193,Finance,Live,Beginner,4.0
+C0194,AI/ML,Interactive,Advanced,3.1
+C0195,Web Development,Text,Advanced,4.6
+C0196,Data Science,Interactive,Advanced,2.6
+C0197,Business,Live,Advanced,4.1
+C0198,Marketing,Text,Advanced,3.6
+C0199,Finance,Video,Intermediate,3.4
+C0200,Cybersecurity,Interactive,Advanced,2.8
